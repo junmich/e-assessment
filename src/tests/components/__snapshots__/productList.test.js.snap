@@ -1,0 +1,56 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Product List Test should render product list correctly 1`] = `
+<div
+  class="product-list"
+>
+  <div
+    class="product-list-title"
+  >
+    Products
+  </div>
+  <div>
+    <div
+      class="list"
+    >
+      <div
+        class="list__text"
+      >
+        test
+        <div
+          class="list__subtitle"
+        >
+          test
+        </div>
+      </div>
+      <div>
+        <button
+          class="default-button"
+        >
+          Edit
+        </button>
+        <button
+          class="delete-button"
+        >
+          Delete
+        </button>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`Product List Test should render product list correctly with no product 1`] = `
+<div
+  class="product-list"
+>
+  <div
+    class="product-list-title"
+  >
+    Products
+  </div>
+  <div>
+    
+  </div>
+</div>
+`;

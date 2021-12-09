@@ -1,0 +1,25 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Action Button Test should render header correctly 1`] = `
+<div
+  className="action-button"
+>
+  <button
+    className="default-button"
+  >
+    Create New
+  </button>
+</div>
+`;
+
+exports[`Action Button Test should render header with title 1`] = `
+<div
+  className="action-button"
+>
+  <button
+    className="default-button"
+  >
+    My App
+  </button>
+</div>
+`;

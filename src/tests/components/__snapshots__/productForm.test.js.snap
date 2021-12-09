@@ -1,0 +1,38 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Product Form Test should render product form correctly 1`] = `
+<div
+  class="product-form"
+>
+  <form>
+    <div>
+      <input
+        class="product-form__input"
+        type="text"
+        value=""
+      >
+        
+      </input>
+    </div>
+    <div>
+      <textarea
+        class="product-form__text-area"
+      >
+        
+      </textarea>
+    </div>
+    <button
+      class="default-button"
+      type="submit"
+    >
+      Add
+    </button>
+    <button
+      class="delete-button"
+      type="button"
+    >
+      Back
+    </button>
+  </form>
+</div>
+`;

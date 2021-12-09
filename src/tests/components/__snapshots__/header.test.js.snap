@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Header Test should render header correctly 1`] = `
+<div
+  className="header-title"
+>
+  Demo Product App
+</div>
+`;
+
+exports[`Header Test should render header with title 1`] = `
+<div
+  className="header-title"
+>
+  My App
+</div>
+`;
